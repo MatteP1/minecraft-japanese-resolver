@@ -6,7 +6,7 @@
   "name": "Japanese Resolver Mod",
   "description": "A mod which resolves japanese text",
   "authors": [
-    "RusTy"
+    "Mathias Pedersen"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
@@ -19,10 +19,10 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "rusty.japaneseresolver.JapaneseResolver"
+      "mattep1.japaneseresolver.JapaneseResolver"
     ],
     "client": [
-      "rusty.japaneseresolver.JapaneseResolverClient"
+      "mattep1.japaneseresolver.JapaneseResolverClient"
     ]
   },
   "mixins": [

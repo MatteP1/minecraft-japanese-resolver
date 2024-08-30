@@ -1,6 +1,6 @@
-package rusty.japaneseresolver.mixin;
+package mattep1.japaneseresolver.mixin;
 
-import rusty.japaneseresolver.JapaneseResolver;
+import mattep1.japaneseresolver.JapaneseResolver;
 import net.minecraft.client.gui.screen.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;

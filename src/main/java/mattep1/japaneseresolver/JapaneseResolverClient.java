@@ -1,4 +1,4 @@
-package rusty.japaneseresolver;
+package mattep1.japaneseresolver;
 
 
 import org.lwjgl.glfw.GLFW;

@@ -1,4 +1,4 @@
-package rusty.japaneseresolver;
+package mattep1.japaneseresolver;
 
 import java.util.List;
 import java.util.Optional;

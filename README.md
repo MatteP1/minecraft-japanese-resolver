@@ -1,4 +1,4 @@
-# Rusty's Japanese Resolver Mod
+# MatteP1's Japanese Resolver Mod
 
 This mod resolves Japanese text.
 
